@@ -1,1 +1,1 @@
-# More about git
+# My first software project
